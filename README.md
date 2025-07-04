@@ -3,6 +3,10 @@
 ## Objective-
 To empower HR teams with a smart Excel dashboard that reveals workforce trends, flags risks, and spotlights top talent — all in one view.
 
+## Dataset used:
+- <a href="https://github.com/Neha-Kashyap-15/HR_KPI_Performance_Tracker/blob/main/SmartHR%20Metric%20Panel.xlsx">Dataset</a>
+
+
 ## Description-
 Brief summary of what the dashboard contains and how it functions:
 
