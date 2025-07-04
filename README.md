@@ -16,6 +16,7 @@ Brief summary of what the dashboard contains and how it functions:
 > - *Tracks multiple HR KPIs in one place*
 
 ## Dashboard Preview
+- <a href="https://github.com/Neha-Kashyap-15/HR_KPI_Performance_Tracker/blob/main/SmartHR%20Metric%20Panel%20-%20Screenshot.png">screenshot</a>
 
 ## The Dashboard includes:
 
