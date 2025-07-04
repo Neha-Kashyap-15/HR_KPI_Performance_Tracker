@@ -13,18 +13,18 @@ Brief summary of what the dashboard contains and how it functions:
 
 # The Dashboard includes:
 
--Employee demographics (gender, age, job title)
+- Employee demographics (gender, age, job title)
 
--Leave analysis by designation
+- Leave analysis by designation
 
--Skill matrix and training needs
+- Skill matrix and training needs
 
--Salary band classification
+- Salary band classification
 
--Performance rating visualization
+- Performance rating visualization
 
--Employment status segmentation
+- Employment status segmentation
 
--Geographic distribution of workforce
+- Geographic distribution of workforce
 
--Service duration and benefits eligibility
+- Service duration and benefits eligibility
