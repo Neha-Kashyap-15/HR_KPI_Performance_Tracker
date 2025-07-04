@@ -1,1 +1,1 @@
-# HR_KPI_Performance_Tracker
+# SmartHR Metrics Panel
