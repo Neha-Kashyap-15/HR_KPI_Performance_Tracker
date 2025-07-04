@@ -1,9 +1,9 @@
 # SmartHR Metrics Panel
 
-# Objective-
+## Objective-
 To empower HR teams with a smart Excel dashboard that reveals workforce trends, flags risks, and spotlights top talent — all in one view.
 
-# Description-
+## Description-
 Brief summary of what the dashboard contains and how it functions:
 
 > - *Excel-based dashboard with interactive filters*  
@@ -11,7 +11,7 @@ Brief summary of what the dashboard contains and how it functions:
 > - *Conditional formatting for data flags*  
 > - *Tracks multiple HR KPIs in one place*
 
-# The Dashboard includes:
+## The Dashboard includes:
 
 - Employee demographics (gender, age, job title)
 
