@@ -23,12 +23,15 @@ Brief summary of what the dashboard contains and how it functions:
 
 - Performance rating visualization
 
-- ## Tools and Techniques used-
-
-  - Microsoft Excel     - Pivot tables & Charts     - Slicers    - Conditional formatting
-
 - Employment status segmentation
 
 - Geographic distribution of workforce
 
 - Service duration and benefits eligibility
+
+- - ## Tools and Techniques used-
+
+ - Microsoft Excel
+ - Pivot tables & Charts
+ - Slicers
+ - Conditional formatting
