@@ -17,6 +17,8 @@ Brief summary of what the dashboard contains and how it functions:
 
 ## Dashboard Preview
 - <a href="https://github.com/Neha-Kashyap-15/HR_KPI_Performance_Tracker/blob/main/SmartHR%20Metric%20Panel%20-%20Screenshot.png">screenshot</a>
+![SmartHR Metric Panel - Screenshot](https://github.com/user-attachments/assets/98437f3f-0aeb-400b-9a07-5c6d94cdacb0)
+
 
 ## The Dashboard includes:
 
