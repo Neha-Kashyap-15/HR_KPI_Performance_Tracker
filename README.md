@@ -10,3 +10,21 @@ Brief summary of what the dashboard contains and how it functions:
 > - *Real-time visuals using Pivot Tables & Charts*  
 > - *Conditional formatting for data flags*  
 > - *Tracks multiple HR KPIs in one place*
+
+# The dashboard includes:
+
+**Employee demographics (gender, age, job title)**
+
+**Leave analysis by designation**
+
+**Skill matrix and training needs**
+
+**Salary band classification**
+
+**Performance rating visualization**
+
+**Employment status segmentation**
+
+**Geographic distribution of workforce**
+
+**Service duration and benefits eligibility**
