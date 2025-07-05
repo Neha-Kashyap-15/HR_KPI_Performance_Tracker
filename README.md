@@ -1,6 +1,6 @@
 # SmartHR Metrics Panel
 
-## Objective-
+##Objective-
 To empower HR teams with a smart Excel dashboard that reveals workforce trends, flags risks, and spotlights top talent — all in one view.
 
 ## Dataset used:
