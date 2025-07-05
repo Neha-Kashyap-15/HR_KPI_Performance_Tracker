@@ -41,7 +41,7 @@
  ## Project Insights-
 
   **Excessive Leave Utilization**
-    Developers and Designers recorded 122+ days of leave — indicates potential disengagement or workload imbalance.
+   - Developers and Designers recorded 122+ days of leave — indicates potential disengagement or workload imbalance.
 
   **Below-Average Performance Ratings**
     Overall employee performance averages 2.6/5 — suggests a need for skill enhancement and performance management strategies.
