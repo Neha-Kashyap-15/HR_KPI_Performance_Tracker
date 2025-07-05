@@ -38,4 +38,29 @@ Brief summary of what the dashboard contains and how it functions:
  - Slicers
  - Conditional formatting
 
+   ## Project Insights-
+
+**Excessive Leave Utilization**
+Developers and Designers recorded 122+ days of leave — indicates potential disengagement or workload imbalance.
+
+**Below-Average Performance Ratings**
+Overall employee performance averages 2.6/5 — suggests a need for skill enhancement and performance management strategies.
+
+**Young Talent Concentration**
+56% of employees are aged 26–35, representing strong potential for succession planning and leadership development.
+
+**Benefits & Compliance Gap**
+8 employees are currently uninsured — highlights an area for improving HR compliance and employee welfare programs.
+
+**Skill Competency Distribution**
+Most frequent skills: Communication (12), Excel (10), and Design (8) — valuable for workforce planning and project resourcing.
+
+**Compensation Benchmarking**
+Managers receive the highest annual salary (₹9.5L) — supports leadership investment and compensation structuring.
+
+**Workforce Location Analysis**
+Head Office (23), Branch Office (19), Remote (8) — helps in hybrid policy design and infrastructure optimization.
+
+   
+
  
