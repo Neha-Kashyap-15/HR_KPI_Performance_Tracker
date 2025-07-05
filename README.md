@@ -56,7 +56,7 @@
  - Most frequent skills: Communication (12), Excel (10), and Design (8) — valuable for workforce planning and project resourcing.
 
 **Compensation Benchmarking**
--  Managers receive the highest annual salary (₹9.5L) — supports leadership investment and compensation structuring.
+-  HR Specialists receive the highest annual salary (₹9.5L) — supports leadership investment and compensation structuring.
 
 **Workforce Location Analysis**
  - Head Office (23), Branch Office (19), Remote (8) — helps in hybrid policy design and infrastructure optimization.
