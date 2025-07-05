@@ -70,6 +70,7 @@
 > - *Enhances HR Reporting – Delivers quick, data-driven insights for decision-making.*
 > - *Easy & Scalable – Excel-based, no-code, adaptable to any HR team.*
 
+##"Empowering HR with clarity, not complexity."
    
 
  
