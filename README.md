@@ -20,7 +20,7 @@
 ![SmartHR Metric Panel - Screenshot](https://github.com/user-attachments/assets/98437f3f-0aeb-400b-9a07-5c6d94cdacb0)
 
 
-## The Dashboard includes:
+##  The Dashboard includes:
 
   - Employee demographics (gender, age, job title)
   - Leave analysis by designation
